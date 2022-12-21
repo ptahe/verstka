@@ -316,7 +316,7 @@ button:hover{
   flex-wrap: wrap;
   column-gap: 10%;
   width: 93%;
-  height: 490px;
+  height: 510px;
 }
 .sel{
   display: flex;
